@@ -9,11 +9,9 @@ python-dotenv
 langchain
 langchain_core
 langchain-openai
-streamlit
 langchain_community
 streamlit
   
--e .
 
 # To install the package in editable mode, use the following command:
 # pip install -e .

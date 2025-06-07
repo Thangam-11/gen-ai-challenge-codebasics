@@ -12,3 +12,8 @@ Visit the challenge page to learn more: [DS RPC-01](https://codebasics.io/challe
  - **general**
  - **hr**
  - **marketing**
+
+
+git add .
+git commit -m "your update message"
+git push origin feature/genai_challange
